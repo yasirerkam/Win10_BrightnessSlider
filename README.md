@@ -11,8 +11,8 @@ https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/Win10_Brigh
 
 ### ScreenShots
 
-![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/win10Slider_1.png?raw=true)
+![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1.png?raw=true)
 
-![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/win10Slider_2.png?raw=true)
+![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.png?raw=true)
 
  
