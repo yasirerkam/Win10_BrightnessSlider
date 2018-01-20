@@ -19,10 +19,15 @@ this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it
 
  
 #### If you get error "Not Supported" 
-1) try run as admin.               
-2) install/update your graphic driver  
-3) after update try run as admin. 
-4) i hope this works.
+1) paste this  windows powershell 
+   
+   $monitor = Get-WmiObject -ns root/wmi -class wmiMonitorBrightNessMethods$monitor.WmiSetBrightness(80,10) 
+  
+   if the code above gives error. then, there is nothing i can do . 
+   because, WmiSetBrightness is provided by microsoft.  please dont open issue about this.
+    
+2) try install/update your graphic driver  
 
+ 
 #### Fixed
 slider will show at the nearest place to your taskbar  
