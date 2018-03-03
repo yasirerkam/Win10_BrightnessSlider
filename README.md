@@ -1,5 +1,6 @@
 # Win10_BrightnessSlider
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
+targeting laptops. its high pobable that it wont run on desktop monitors , or old
 
 * **tested on** win10 build 10240 x64.
 * **tags:** Windows 10 MONITOR Brightness Slider Icon on Taskbar Tray
@@ -17,6 +18,9 @@ this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it
 
 ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true)
 
+![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss3.jpg?raw=true)
+
+
  
 #### If you get error "Not Supported" 
 1) paste this  windows powershell 
@@ -29,5 +33,12 @@ this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it
 2) try install/update your graphic driver  
 
  
-#### Fixed
-slider will show at the nearest place to your taskbar  
+#### ChangeLog
+v1.02
+fixed: slider showing itself on second screen onhide 
+fixed: popup stays under taskbar, if taskbar is autoHiding  
+added: supports setting Brighness on ddc/ci Monitors(at startup  it may not get the brightness. it may show -1 )
+
+v1.01
+fixed: slider wasn't positioning itself according to taskbar position (Top Or Bottom Or Left Or Right of Screen);
+
