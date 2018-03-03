@@ -37,10 +37,12 @@ targeting laptops. its high pobable that it wont run on desktop monitors , or ol
  
 #### ChangeLog
 v1.02
-fixed: slider showing itself on second screen onhide 
-fixed: popup stays under taskbar, if taskbar is autoHiding  
-added: supports setting Brighness on ddc/ci Monitors(at startup  it may not get the brightness. it may show -1 )
+
+* fixed: slider showing itself on second screen onhide 
+* fixed: popup stays under taskbar, if taskbar is autoHiding  
+* added: supports setting Brighness on ddc/ci Monitors(at startup  it may not get the brightness. it may show -1 )
 
 v1.01
-fixed: slider wasn't positioning itself according to taskbar position (Top Or Bottom Or Left Or Right of Screen);
+
+* fixed: slider wasn't positioning itself according to taskbar position (Top Or Bottom Or Left Or Right of Screen)
 
