@@ -23,6 +23,8 @@ targeting laptops. its high pobable that it wont run on desktop monitors , or ol
 
  
 #### If you get error "Not Supported" 
+#####  now there is ddc/ci , version1.02 gracefully fallback to ddc/ci mode  
+
 1) paste this  windows powershell 
    
    $monitor = Get-WmiObject -ns root/wmi -class wmiMonitorBrightNessMethods$monitor.WmiSetBrightness(80,10) 
