@@ -38,6 +38,10 @@ targeting laptops.
 
  
 #### ChangeLog
+v1.04
+* added: author page to  menu item  that shows version no.
+* trying tofix: fallback doesnt handle management not supported exception.  **(plase feedback whether this is running appropriately)**
+
 v1.02
 
 * added: seperately change brightness of multiple monitors.
