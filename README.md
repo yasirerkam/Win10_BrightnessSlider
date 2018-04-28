@@ -2,6 +2,8 @@
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
+* trying to fix: **(please feedback)** fallback mode doesn't handle management not supported exception.  
+
 * **tested on** win10 build 10240 x64.
 * **tags:** Windows 10 MONITOR Brightness Slider Icon on Taskbar Tray
 
@@ -40,7 +42,7 @@ targeting laptops.
 #### ChangeLog
 v1.04
 * added: author page to  menu item  that shows version no.
-* trying tofix: fallback doesnt handle management not supported exception.  **(plase feedback whether this is running appropriately)**
+* trying to fix: fallback doesnt handle management not supported exception.
 
 v1.02
 
