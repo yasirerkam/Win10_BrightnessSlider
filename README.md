@@ -13,7 +13,7 @@ targeting laptops.
 #### Features
 
 * Supports ddc/ci monitors
-* Seperate Sliders For Muptiple Monitors
+* Seperate Sliders For Multiple Monitors
 * Volume like Slider to Change Monitor Brightness
 * Option to Run At Startup
 
