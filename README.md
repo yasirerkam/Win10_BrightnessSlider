@@ -16,6 +16,7 @@ targeting laptops.
 * Seperate Sliders For Multiple Monitors
 * Volume like Slider to Change Monitor Brightness
 * Option to Run At Startup
+* Ability to *"Rescan Monitor"* after a Monitor Plugged in/out
 
 #### ScreenShots
 
