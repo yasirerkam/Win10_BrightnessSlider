@@ -10,9 +10,7 @@ targeting laptops.
 
 **Download Link**  
 
-[Click Here To Download](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/Win10_BrightnessSlider/bin/Debug/Win10_BrightnessSlider.exe?raw=true)
-
-[Releases](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
+[Download Latest](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/Win10_BrightnessSlider/bin/Debug/Win10_BrightnessSlider.exe?raw=true)   |   [Older Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
 
 #### Features
