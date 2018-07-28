@@ -8,7 +8,7 @@ if you have  bank account in  those countries and you liked my app, please dont 
 ```
 ##Germany
 --------------
-TW Account Holder   : Erxxxxxx Erxxx
+TW Account Holder   : Ertuğrul Ertaş
 IBAN                : DE71 7001 1110 6051 9552 75
 Bank code(SWIFT/BIC): DEKTDE7GXXX
 Address
@@ -21,7 +21,7 @@ Address
     
 ##United Kingdom    
 ----------------------
-Account Holder:  Erxxxxxx Erxxx
+Account Holder:  Ertuğrul Ertaş
 Account number:  80237676
 UK Sort Code  :  23-14-70
 Address
@@ -34,7 +34,7 @@ Address
    
 ##Australia
 ---------------------
-Account Holder:   Erxxxxxx Erxxx
+Account Holder:   Ertuğrul Ertaş
 Account number:   498369085
 BSB Code      :   082-182
 Address
