@@ -8,6 +8,8 @@ targeting laptops.
 * **tags:** Windows 10 MONITOR Brightness Slider Icon on Taskbar Tray
 * **Note For Developers**  : code version is  first working version (maybe 1.01). but **executable is always up to date**
 
+**Donate Me:**  [Download Latest](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md) DonateMe.md
+
 **Download Link**  
 
 [Download Latest](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/Win10_BrightnessSlider/bin/Debug/Win10_BrightnessSlider.exe?raw=true)   |   [Older Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
