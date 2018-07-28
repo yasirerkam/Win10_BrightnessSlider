@@ -1,10 +1,8 @@
 
+ 
+i can Get donation  from  any bank in  **Germany, United Kingdom , Australia**
 
-hi i created a TransferWire  account.  upon someone suggesting why not put donation.
-
-now i can Get donation  from  any bank in  Germany, United Kingdom , Australia 
-
-so if you have  bank account in  those countries. and you liked my app.( 1.3 -  5$ or more whatever you like)
+if you have  bank account in  those countries and you liked my app, please dont hesitate to donate.( 2 5 10$ or more )
 
 
 ```
