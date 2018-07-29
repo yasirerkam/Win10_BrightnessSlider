@@ -5,7 +5,6 @@ targeting laptops.
 * trying to fix: (**[Please Feedback Here](https://github.com/blackholeearth/Win10_BrightnessSlider/issues/16)**)  fallback mode doesn't handle management not supported exception.  
 
 * **tested on** win10 build 10240 x64.
-* **tags:** Windows 10 MONITOR Brightness Slider Icon on Taskbar Tray
 * **Note For Developers**  : code version is  first working version (maybe 1.01). but **executable is always up to date**
 
 **Donate Me:** [DonateMe](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md) 
