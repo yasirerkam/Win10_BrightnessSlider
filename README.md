@@ -7,7 +7,8 @@ targeting laptops.
 
 **Donate Me:** [DonateMe](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md) 
 
-**Download Link**  [Download Latest](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/Win10_BrightnessSlider/bin/Debug/Win10_BrightnessSlider.exe?raw=true)   |   [Older Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
+
+**Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
 
 #### Features
