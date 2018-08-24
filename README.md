@@ -2,8 +2,6 @@
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
-* trying to fix: (**[Please Feedback Here](https://github.com/blackholeearth/Win10_BrightnessSlider/issues/16)**)  fallback mode doesn't handle management not supported exception.  
-
 * **tested on** win10 build 10240 x64.
 * **Note For Developers**  : code version is  first working version (maybe 1.01). but **executable is always up to date**
 
@@ -44,6 +42,19 @@ targeting laptops.
 
  
 #### ChangeLog
+v1.6
+* fixed: slider popualtion method changed : issue: ``i got 3 screens, but i have 5 sliders``. 
+``
+         first it get allScreen Safe Way . 
+          add user32 screen -> get dxva if exist 
+                            -> get wmi that matches to user32 of the screen . 
+          remaining wmi screen will be adeed below (but this should never happen)
+``
+         
+
+v1.5  
+ dont use this.
+
 v1.04
 * added: author page to  menu item  that shows version no.
 * trying to fix: fallback doesnt handle management not supported exception.
