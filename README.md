@@ -44,12 +44,13 @@ targeting laptops.
 #### ChangeLog
 v1.6
 * fixed: slider popualtion method changed : issue: ``i got 3 screens, but i have 5 sliders``. 
-``
-         first it get allScreen Safe Way . 
-          add user32 screen -> get dxva if exist 
-                            -> get wmi that matches to user32 of the screen . 
-          remaining wmi screen will be adeed below (but this should never happen)
-``
+
+```
+     get allScreen Safe Way . 
+     add user32 screen -> get dxva if exist 
+                       -> get wmi that matches to user32 of the screen . 
+     remaining wmi screen will be adeed below (but this should never happen)
+```
          
 
 v1.5  
