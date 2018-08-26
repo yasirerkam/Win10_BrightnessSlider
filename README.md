@@ -29,8 +29,8 @@ targeting laptops.
 
 
  
-#### If you get error "Not Supported" 
-#####  now there is ddc/ci , version1.02 gracefully fallback to ddc/ci mode  
+#### If you get error "Not Supported"  ( fixed at v1.04)
+#####  this means WMI method not supported.  it will try to use  ddc/ci , app will  fallback to ddc/ci mode  
 
 1) paste this  windows powershell 
    
@@ -44,7 +44,7 @@ targeting laptops.
  
 #### ChangeLog
 v1.6
-* fixed: slider popualtion method improved : issue: ``i got 3 screens, but i have 5 sliders``. 
+* fixed: issue: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
  
 v1.5  
  dont use this.
