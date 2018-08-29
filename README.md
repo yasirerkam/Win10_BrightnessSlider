@@ -3,7 +3,8 @@ this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it
 targeting laptops. 
 
 * **tested on** win10 build 10240 x64. 
-* **works on** win7 , win8 , win10
+* **requirements** .net4 framework. 
+* **supported os**  win7 , win8 , win10  
 * **Note For Developers**  : code version is  first working version (maybe 1.01). but **executable is always up to date**
 
 **Donate Me:** [DonateMe](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md) 
