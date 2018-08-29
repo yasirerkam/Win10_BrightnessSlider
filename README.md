@@ -6,8 +6,9 @@ targeting laptops.
 * **requirements**: .net4 framework.  (win7 may need to install)  
 * **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**
 
-**Donate Me:** [DonateMe](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md) 
+**Donate Me:** [DonateMe](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md)  
 
+**Discord:** [Discord](https://discordapp.com/channels/484323520671907840) 
 
 **Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
