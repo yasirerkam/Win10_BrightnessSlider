@@ -46,7 +46,7 @@ targeting laptops.
  
 #### ChangeLog
 v1.7.1
-* fixed: ddci brightness displaying -1 (may not work on all ddci anyway)
+* fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
 * fixing: (waiting user confirmation) blurry text high dpi  
 
 v1.6
