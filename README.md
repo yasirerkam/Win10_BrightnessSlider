@@ -32,7 +32,7 @@ targeting laptops.
 
  
 #### If you get error "Not Supported"  ( fixed at v1.04)
-#####  this means WMI method not supported.  it will try to use  ddc/ci , app will  fallback to ddc/ci mode  
+#####  this means WMI method not supported.  it will try to use  ddc/ci  if its enabled at monitor menu 
 
 1) paste this  windows powershell 
    
