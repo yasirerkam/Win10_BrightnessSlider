@@ -44,6 +44,10 @@ targeting laptops.
 
  
 #### ChangeLog
+v1.7.1
+* fixed: ddci brightness displaying -1 (may not work on all ddci anyway)
+* fixing: (waiting user confirmation) blurry text high dpi  
+
 v1.6
 * fixed: issue: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
  
