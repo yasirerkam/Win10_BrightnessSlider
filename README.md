@@ -46,7 +46,9 @@ targeting laptops.
  
 #### ChangeLog
 
-v.1.7.3
+v1.7.3
+ * added:  if there is new version, shows in rightclick menu.
+ * fixing: new monitor populator
  
 v1.7.1
 * fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
