@@ -57,9 +57,6 @@ v1.7.1
 v1.6
 * fixed: issue: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
  
-v1.5  
- dont use this.
-
 v1.04 
 * added: author page to  menu item  that shows version no.
 * trying to fix: fallback doesnt handle management not supported exception.
