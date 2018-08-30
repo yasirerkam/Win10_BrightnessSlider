@@ -45,9 +45,12 @@ targeting laptops.
 
  
 #### ChangeLog
+
+v.1.7.3
+ 
 v1.7.1
 * fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
-* fixing: (waiting user confirmation) blurry text high dpi  
+* fixed: blurry text high dpi  
 
 v1.6
 * fixed: issue: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
@@ -55,7 +58,7 @@ v1.6
 v1.5  
  dont use this.
 
-v1.04
+v1.04 
 * added: author page to  menu item  that shows version no.
 * trying to fix: fallback doesnt handle management not supported exception.
 
