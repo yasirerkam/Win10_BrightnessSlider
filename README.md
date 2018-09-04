@@ -48,9 +48,13 @@ targeting laptops.
  
 #### ChangeLog
 
+v1.7.4
+ * added:  sun image near each slider shows name on hover
+ * fixing: slider doesnt work at first time, i have to rightclick trayIcon > Press "detect Monitor"
+ 
 v1.7.3
  * added:  if there is new version, shows in rightclick menu.
- * fixing: new monitor populator
+ * fixed: new monitor populator
  
 v1.7.1
 * fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
