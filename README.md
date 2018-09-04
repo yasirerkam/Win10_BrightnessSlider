@@ -53,7 +53,7 @@ v1.7.4
  * fixed: ``slider doesnt work at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
  
 v1.7.3
- * added:  if there is new version, shows in rightclick menu.
+ * added:  Check For Updates , shows in rightclick menu.
  * fixed: new monitor populator
  
 v1.7.1
