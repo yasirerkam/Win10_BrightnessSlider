@@ -50,7 +50,7 @@ targeting laptops.
 
 v1.7.4
  * added:  sun image near each slider shows name on hover
- * fixed: ``slider doesnt work at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
+ * fixed: ``(ddci problem )slider doesnt change birghtness at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
  
 v1.7.3
  * added:  Check For Updates , shows in rightclick menu.
