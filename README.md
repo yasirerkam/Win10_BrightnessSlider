@@ -50,7 +50,7 @@ targeting laptops.
 
 v1.7.4
  * added:  sun image near each slider shows name on hover
- * fixing: slider doesnt work at first time, i have to rightclick trayIcon > Press "detect Monitor"
+ * fixed: ``slider doesnt work at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
  
 v1.7.3
  * added:  if there is new version, shows in rightclick menu.
@@ -61,7 +61,7 @@ v1.7.1
 * fixed: blurry text high dpi  
 
 v1.6
-* fixed: issue: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
+* fixed: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
  
 v1.04 
 * added: author page to  menu item  that shows version no.
