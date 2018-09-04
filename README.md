@@ -2,6 +2,8 @@
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
+**if slider doesnt work. some ddci monitor need to rightclick sunİcon at Tray Press 'Detect monitor'**.
+
 * **supported os**:  win7 , win8 , win10 
 * **requirements**: .net4 framework.  (win7 may need to install)  
 * **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**
@@ -19,7 +21,7 @@ targeting laptops.
 * Seperate Sliders For Multiple Monitors
 * Volume like Slider to Change Monitor Brightness
 * Option to Run At Startup
-* Ability to *"Rescan Monitor"* after a Monitor Plugged in/out
+* Ability to *"Rescan/Detect Monitor"* after a Monitor Plugged in/out
 
 #### ScreenShots
 
