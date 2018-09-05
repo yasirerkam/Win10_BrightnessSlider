@@ -2,7 +2,7 @@
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
-**NOTE** :if slider **doesnt work,** some ddci monitor need to  **rightClick Brightness icon>Press 'Detect monitor'**.
+**NOTE** : (fixed at v1.7.4 ) if slider **doesnt work,** some ddci monitor need to  **rightClick Brightness icon>Press 'Detect monitor'**.  
 
 * **supported os**:  win7 , win8 , win10 
 * **requirements**: .net4 framework.  (win7 may need to install)  
