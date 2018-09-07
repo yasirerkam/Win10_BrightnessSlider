@@ -48,22 +48,21 @@ targeting laptops.
  
 #### ChangeLog
 
+v1.7.5
+ * fixing: null check  richscreen.getbrighness>get_physicalmonitor()
+ 
 v1.7.4
  * added:  sun image near each slider shows name on hover
  * fixed: ``(ddci problem )slider doesnt change birghtness at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
  
 v1.7.3
- * added:  Check For Updates , shows in rightclick menu.
- * fixed: new monitor populator
- 
-v1.7.1
+* added:  Check For Updates , shows in rightclick menu.
+* fixed: new monitor populator
 * fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
 * fixed: blurry text high dpi  
-
-v1.6
 * fixed: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
  
-v1.04 
+v1.04 [most stable]
 * added: author page to  menu item  that shows version no.
 * trying to fix: fallback doesnt handle management not supported exception.
 
