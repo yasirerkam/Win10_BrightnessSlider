@@ -2,11 +2,6 @@
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
-**NOTE** :  
-1) v1.4 is most stable. also you can test the newest version and report here.
-2) if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
- you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
-
 * **supported os**:  win7 , win8 , win10 
 * **requirements**: .net4 framework.  (win7 may need to install)  
 * **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**
@@ -35,18 +30,14 @@ targeting laptops.
 ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss3.jpg?raw=true)
 
 
+#### NOTES   
+* v1.4 is most stable. also you can test the newest version and report here.
+* if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
+ you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
  
-#### If you get error "Not Supported"  ( fixed at v1.04)
-#####  this means WMI method not supported.  it will try to use  ddc/ci  if its enabled at monitor menu 
-
-1) paste this  windows powershell 
-   
-   $monitor = Get-WmiObject -ns root/wmi -class wmiMonitorBrightNessMethods$monitor.WmiSetBrightness(80,10) 
-  
-   if the code above gives error. then, there is nothing i can do . 
-   because, WmiSetBrightness is provided by microsoft.  please dont open issue about this.
-    
-2) try install/update your graphic driver  
+* if it doesn't work  
+  a) try install/update your graphic driver  
+  b) try enable ddci on monitor
 
  
 #### ChangeLog
