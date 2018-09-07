@@ -44,12 +44,8 @@ targeting laptops.
 
 v1.7.5
  * fixing: null check  richscreen.getbrighness>get_physicalmonitor()
- 
-v1.7.4
  * added:  sun image near each slider shows name on hover
  * fixed: ``(ddci problem )slider doesnt change birghtness at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
- 
-v1.7.3
 * added:  Check For Updates , shows in rightclick menu.
 * fixed: new monitor populator
 * fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
@@ -59,15 +55,9 @@ v1.7.3
 v1.04 [most stable]
 * added: author page to  menu item  that shows version no.
 * trying to fix: fallback doesnt handle management not supported exception.
-
-v1.02
-
 * added: seperately change brightness of multiple monitors.
 * added: supports setting Brighness on ddc/ci Monitors(at startup, it may show -1,  )
 * fixed: slider showing itself on second screen onhide 
 * fixed: popup stays under taskbar, if taskbar is autoHiding  
-
-v1.01
-
 * fixed: slider wasn't positioning itself according to taskbar position (Top Or Bottom Or Left Or Right of Screen)
 
