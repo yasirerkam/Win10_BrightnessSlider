@@ -11,11 +11,6 @@ targeting laptops.
    * old code published here is free to play.
    * uptodate code is my private intellectual property. imade so much effort without any money. of course im not gonna put it here.
    
-
-**Donate Me:** [DonateMe](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/DonateMe.md)  
-
-**Discord:** [Discord](https://discordapp.com/channels/484323520671907840) 
-
 **Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
 
