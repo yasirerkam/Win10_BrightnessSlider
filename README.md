@@ -9,7 +9,7 @@ targeting laptops.
 * **Note For VirusAlert**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
    * old code published here is free to play.
-   * uptodate code is my private intellectual property. imade so much effort without any money. of course im not gonna put it here.
+   * uptodate code is my private intellectual property. coding effort made without any money, wont be put it here.
    
 **Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
