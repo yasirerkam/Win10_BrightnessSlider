@@ -43,6 +43,11 @@ targeting laptops.
  
 #### ChangeLog
 
+v1.7.6
+ * added: hide sliderform even when clicked on taskbar icon 
+ * fixed: in ltr system(ie arabic) taskbar is at other side . 
+ * added: taskbar icon tooltip-text shows pct of all sliders ( after first  form_show) 
+
 v1.7.5
  * fixing: null check  richscreen.getbrighness>get_physicalmonitor()
  * added:  sun image near each slider shows name on hover
