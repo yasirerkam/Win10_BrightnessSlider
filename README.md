@@ -36,9 +36,9 @@ targeting laptops.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
  
 * if it doesn't work:
- 1) 
-    a) try install/update your graphic driver  
-    b) try enable ddci on monitor
+
+      a) try install/update your graphic driver  
+      b) try enable ddci on monitor
  
 #### ChangeLog
 
