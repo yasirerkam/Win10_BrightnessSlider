@@ -37,8 +37,8 @@ targeting laptops.
  
 * if it doesn't work:
 
-      a) try install/update your graphic driver  
-      b) try enable ddci on monitor
+  a) try install/update your graphic driver  
+  b) try enable ddci on monitor
  
 #### ChangeLog
 
