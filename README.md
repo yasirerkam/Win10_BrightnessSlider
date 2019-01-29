@@ -9,7 +9,7 @@ targeting laptops.
 * **Note For VirusAlert**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
    * old code published here is free to play.
-   * uptodate code is my private intellectual property. coding effort made without any money, wont be put it here.
+   * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
    
 **Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
@@ -32,14 +32,13 @@ targeting laptops.
 
 
 #### NOTES   
-* v1.4 is most stable. also you can test the newest version and report here.
 * if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
  
-* if it doesn't work  
-  a) try install/update your graphic driver  
-  b) try enable ddci on monitor
-
+* if it doesn't work:
+ 1) 
+    a) try install/update your graphic driver  
+    b) try enable ddci on monitor
  
 #### ChangeLog
 
