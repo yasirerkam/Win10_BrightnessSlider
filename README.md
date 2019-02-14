@@ -3,7 +3,11 @@ this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it
 targeting laptops. 
 
 * **supported os**:  win7 , win8 , win10 
-* **requirements**: .net4 framework.  (win7 may need to install)  
+* **requirements**: 
+  * .net4 framework.  (win7 may need to install)
+  * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
+)
+
 * **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**
 
 * **Note For VirusAlert**: 
@@ -16,13 +20,15 @@ targeting laptops.
 
 #### Features
 
-* Supports ddc/ci monitors
+* Supports ddc/ci monitors 
 * Seperate Sliders For Multiple Monitors
 * Volume like Slider to Change Monitor Brightness
 * Option to Run At Startup
 * Ability to *"Rescan/Detect Monitor"* after a Monitor Plugged in/out
 
 #### ScreenShots
+
+
 
 ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1.jpg?raw=true)
 
