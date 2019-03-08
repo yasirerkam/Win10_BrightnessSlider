@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Win10_BrightnessSlider")]
-[assembly: AssemblyDescription("blackholeearth@github")]
+[assembly: AssemblyDescription("blackholeearth&Yasir_Erkam@github")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("blackholeearth")]
+[assembly: AssemblyCompany("blackholeearth&Yasir_Erkam")]
 [assembly: AssemblyProduct("Win10_BrightnessSlider")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
